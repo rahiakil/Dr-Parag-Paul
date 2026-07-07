@@ -1,37 +1,84 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,50:0A66C2,100:1a1a2e&height=140&section=header&text=Dr.%20Parag%20Paul&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Native%20Engineer%20%C2%B7%20Technical%20Founder%20%C2%B7%20Research%20%E2%86%92%20Production&descSize=15&descAlignY=62&descAlign=50" width="100%"/>
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:4285F4,100:1a1a2e&height=180&section=header&text=Dr.%20Parag%20Paul&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Native%20Engineer%20%C2%B7%20Technical%20Founder%20%C2%B7%20Research%20%E2%86%92%20Production&descAlignY=58&descSize=14" width="100%"/>
+<br/>
 
-### AI Native Engineer · 1× Technical Founder · Spec-Driven Developer · Full-Stack · Research → Production
+<table width="100%">
+<tr>
+<td width="240" align="center" valign="top">
 
-**Multiple 0→1 enterprise products · Post-Doc in AI · Multiple Tier-I published papers · 20+ published books · 167-part editorial series**
+<img src="assets/profile.png" alt="Dr. Parag Paul" width="200" style="border-radius: 50%; border: 4px solid #0A66C2;"/>
 
-📍 Seattle, WA
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-paul-5350847)
-[![Amazon Author](https://img.shields.io/badge/Amazon%20Author%20Page-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/stores/Parag-Paul/author/B00RHGH9E0)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RllyRPoAAAAJ&hl=en)
-[![YouTube Interview](https://img.shields.io/badge/YouTube%20Interview-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Fnuqg5b3hL8)
-[![Email](https://img.shields.io/badge/Email-Parag.paul%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Parag.paul@gmail.com)
+**Seattle, WA**
 
-</div>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-paul-5350847)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RllyRPoAAAAJ&hl=en)
+[![YouTube](https://img.shields.io/badge/Interview-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Fnuqg5b3hL8)
+
+</td>
+<td valign="top">
+
+### AI Native Engineer · Technical Founder · Spec-Driven Developer
+
+**Multiple 0→1 enterprise products · Post-Doc in AI · Tier-I published papers · 20+ books · 167-part editorial series**
+
+<br/>
+
+I'm an AI-native engineer and technical founder — a decade of SQL Server engine internals at Microsoft, a PhD in Computer Science earned while working full-time, and current work on **agentic AI security** at HackerOne. My research and writing span **GenAI infrastructure**, **RDBMS statistics**, **blockchain reputation**, and **silicon photonics**.
+
+<br/>
+
+[![Amazon Author Page](https://img.shields.io/badge/Amazon_Author_Page-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/stores/Parag-Paul/author/B00RHGH9E0)
+[![Email](https://img.shields.io/badge/Parag.paul@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Parag.paul@gmail.com)
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahiakil&show_icons=true&theme=tokyo_night&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahiakil&layout=compact&theme=tokyo_night&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="6" bgcolor="#0A66C2"></td>
+<td bgcolor="#161B22" style="padding: 16px 24px;">
 
 ## About
 
-I'm an AI-native engineer and technical founder who has shipped multiple 0→1 enterprise products, spent almost a decade building core database engine internals at Microsoft, and hold a PhD in Computer Science completed while working full-time. My work spans **agentic AI security**, **GenAI infrastructure**, **RDBMS/statistics research**, **blockchain reputation systems**, and **silicon photonics tooling**.
-
 Currently building the core **Agentic Prompt Injection Testing** engine at HackerOne — the system behind their production AI Red Teaming platform.
 
-I also write extensively: **20+ books on Amazon**, a **40-part editorial series** on the state of photonics chip design, and a **127-part software-engineering series** on converting from software to photonics (destined to become a book).
+Beyond enterprise engineering, I publish **20+ books on Amazon**, author a **40-part editorial series** on photonics chip design and the AI compute bottleneck, and write a **127-part software-engineering series** on transitioning from software to photonics (forthcoming book).
 
----
+</td>
+</tr>
+</table>
 
-## ⭐ Featured Repositories
+<br/>
 
-### 🤖 [agents-unite](https://github.com/rahiakil/agents-unite) — *Building the World's Financial Memory*
+<img src="assets/divider.svg" width="100%"/>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="6" bgcolor="#238636"></td>
+<td bgcolor="#161B22" style="padding: 16px 24px;">
+
+## Featured Repositories
+
+### [agents-unite](https://github.com/rahiakil/agents-unite) — *Building the World's Financial Memory*
 
 > **Crowdsourced agentic LLM research · Git-based version history · Blockchain-style reputation roadmap**
 
@@ -47,7 +94,7 @@ Most AI agents throw away their work when the session ends. **agents-unite** spl
 
 **Roadmap:** Daily collection → Hourly + RAG → Consensus engine → **On-chain reputation & stake-gated signals**
 
-🌐 [Live Website](https://rahiakil.github.io/agents-unite/) · 📖 [Vision](https://github.com/rahiakil/agents-unite/blob/main/docs/VISION.md) · 🔧 [Builders Guide](https://github.com/rahiakil/agents-unite/blob/main/docs/BUILDERS.md)
+[Live Website](https://rahiakil.github.io/agents-unite/) · [Vision](https://github.com/rahiakil/agents-unite/blob/main/docs/VISION.md) · [Builders Guide](https://github.com/rahiakil/agents-unite/blob/main/docs/BUILDERS.md)
 
 ---
 
@@ -55,11 +102,24 @@ Most AI agents throw away their work when the session ends. **agents-unite** spl
 
 | Repository | Description |
 |:---|:---|
-| 🖥️ [**agos**](https://github.com/rahiakil/agos) | **Agentic OS** — operating system primitives for autonomous AI agents |
-| 📋 [**awesome-ai-agents**](https://github.com/rahiakil/awesome-ai-agents) | Curated list of AI autonomous agents, frameworks, and tooling |
-| 🏠 [**rahiakil**](https://github.com/rahiakil/rahiakil) | This profile — career, publications, books, and editorial series |
+| [**agos**](https://github.com/rahiakil/agos) | **Agentic OS** — operating system primitives for autonomous AI agents |
+| [**awesome-ai-agents**](https://github.com/rahiakil/awesome-ai-agents) | Curated list of AI autonomous agents, frameworks, and tooling |
+| [**Dr-Parag-Paul**](https://github.com/rahiakil/Dr-Parag-Paul) | Public profile — career, publications, books, and editorial series |
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="6" bgcolor="#8957E5"></td>
+<td bgcolor="#161B22" style="padding: 16px 24px;">
 
 ## Currently
 
@@ -69,7 +129,15 @@ Most AI agents throw away their work when the session ends. **agents-unite** spl
 - Produced OWASP Top 10 for LLMs, MITRE ATLAS, and NIST AI RMF-aligned findings reports with defensible exploitability evidence.
 - **Media:** [HackerOne Blog](https://www.hackerone.com/blog/agentic-prompt-injection-testing) · [Press Release](https://www.hackerone.com/press-release/hackerone-launches-agentic-prompt-injection-testing-ai-vulnerabilities-surge-540)
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br/>
 
 ## Experience
 
@@ -165,9 +233,9 @@ VLSI, RTL, UVM, CDC, STA, SDC, DFT, sign-off; owned runtime components for VCS; 
 
 ---
 
-## 📚 Books
+## Books
 
-> 📖 Full catalog on my [Amazon Author Page](https://www.amazon.com/stores/Parag-Paul/author/B00RHGH9E0)
+> Full catalog on my [Amazon Author Page](https://www.amazon.com/stores/Parag-Paul/author/B00RHGH9E0)
 
 ### Recent Fiction & Satire
 
@@ -201,7 +269,7 @@ VLSI, RTL, UVM, CDC, STA, SDC, DFT, sign-off; owned runtime components for VCS; 
 
 ---
 
-## 🎤 Talks & Video
+## Talks & Video
 
 | Title | Link |
 |:---|:---|
@@ -211,7 +279,7 @@ VLSI, RTL, UVM, CDC, STA, SDC, DFT, sign-off; owned runtime components for VCS; 
 
 ---
 
-## 📡 Editorial Series
+## Editorial Series
 
 ### The Photonic Convergence: Solving the AI Compute Bottleneck *(40 parts)*
 
@@ -229,7 +297,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 | **VIII** | The Future of Photonic Compute | 36–40 |
 
 <details>
-<summary><b>📖 Volume I — The Silicon Foundation & Compute Limits (Posts 1–5)</b></summary>
+<summary><b>Volume I — The Silicon Foundation & Compute Limits (Posts 1–5)</b></summary>
 
 | # | Title | Summary |
 |:---:|:---|:---|
@@ -242,7 +310,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 </details>
 
 <details>
-<summary><b>⚡ Volume II — The Energy Toll of AI Datacenters (Posts 6–10)</b></summary>
+<summary><b>Volume II — The Energy Toll of AI Datacenters (Posts 6–10)</b></summary>
 
 | # | Title | Summary |
 |:---:|:---|:---|
@@ -255,7 +323,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 </details>
 
 <details>
-<summary><b>🧠 Volume III — Memory and Advanced Packaging (Posts 11–15)</b></summary>
+<summary><b>Volume III — Memory and Advanced Packaging (Posts 11–15)</b></summary>
 
 | # | Title | Summary |
 |:---:|:---|:---|
@@ -268,7 +336,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 </details>
 
 <details>
-<summary><b>🔌 Volume IV — Hitting the "Copper Wall" (Posts 16–20)</b></summary>
+<summary><b>Volume IV — Hitting the "Copper Wall" (Posts 16–20)</b></summary>
 
 | # | Title | Summary |
 |:---:|:---|:---|
@@ -281,7 +349,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 </details>
 
 <details>
-<summary><b>💡 Volume V — The Rise of Silicon Photonics (Posts 21–25)</b></summary>
+<summary><b>Volume V — The Rise of Silicon Photonics (Posts 21–25)</b></summary>
 
 | # | Title | Summary |
 |:---:|:---|:---|
@@ -294,7 +362,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 </details>
 
 <details>
-<summary><b>📦 Volume VI — Bringing Light to the Chip: NPO & CPO (Posts 26–30)</b></summary>
+<summary><b>Volume VI — Bringing Light to the Chip: NPO & CPO (Posts 26–30)</b></summary>
 
 | # | Title | Summary |
 |:---:|:---|:---|
@@ -307,7 +375,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 </details>
 
 <details>
-<summary><b>🔀 Volume VII — Optical Circuit Switching at Scale (Posts 31–35)</b></summary>
+<summary><b>Volume VII — Optical Circuit Switching at Scale (Posts 31–35)</b></summary>
 
 | # | Title | Summary |
 |:---:|:---|:---|
@@ -320,7 +388,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 </details>
 
 <details>
-<summary><b>🚀 Volume VIII — The Future of Photonic Compute (Posts 36–40)</b></summary>
+<summary><b>Volume VIII — The Future of Photonic Compute (Posts 36–40)</b></summary>
 
 | # | Title | Summary |
 |:---:|:---|:---|
@@ -332,7 +400,7 @@ A comprehensive editorial journey from the foundations of modern computing to cu
 
 </details>
 
-> 📌 Series kickoff: [Part 1 of 40 on LinkedIn](https://www.linkedin.com/posts/fabletome_part-1-of-the-40-part-series-activity-7452950146608205824-k6lO) · [AI & Semiconductors](https://www.linkedin.com/posts/fabletome_ai-semiconductors-hbm-activity-7453234827618820096-gSlF) · [Silicon Photonics](https://www.linkedin.com/posts/fabletome_siliconphotonics-photonics-chipdesign-activity-7453132883382210560-fYbn)
+> Series kickoff: [Part 1 of 40 on LinkedIn](https://www.linkedin.com/posts/fabletome_part-1-of-the-40-part-series-activity-7452950146608205824-k6lO) · [AI & Semiconductors](https://www.linkedin.com/posts/fabletome_ai-semiconductors-hbm-activity-7453234827618820096-gSlF) · [Silicon Photonics](https://www.linkedin.com/posts/fabletome_siliconphotonics-photonics-chipdesign-activity-7453132883382210560-fYbn)
 
 ---
 
@@ -497,35 +565,28 @@ A comprehensive software-engineering series teaching developers how to transitio
 
 </details>
 
-> 📘 Posts 94–127 coming soon — covering advanced packaging, testing, yield, and production photonics workflows.
+> Posts 94–127 coming soon — covering advanced packaging, testing, yield, and production photonics workflows.
 
 ---
 
 ## Tech I Work With
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Silicon Photonics](https://img.shields.io/badge/Silicon%20Photonics-FF6B35?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-_Sql Server internals · Agentic AI security · GenAI infrastructure · Blockchain reputation · Silicon photonics tooling_
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,typescript,aws,postgres,docker,linux,git&theme=dark" alt="Technology stack"/>
+  </a>
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:4285F4,100:1a1a2e&height=100&section=footer" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
-</div>
+<br/>
+
+<p align="center">
+  <sub>SQL Server internals · Agentic AI security · GenAI infrastructure · Blockchain reputation · Silicon photonics tooling</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,50:0A66C2,100:1a1a2e&height=48&section=footer&text=Dr.%20Parag%20Paul&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</p>
