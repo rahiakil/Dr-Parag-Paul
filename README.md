@@ -23,11 +23,11 @@
 
 ### AI Native Engineer · Technical Founder · Spec-Driven Developer
 
-**Multiple 0→1 enterprise products · Post-Doc in AI · Tier-I published papers · 20+ books · 167-part editorial series**
+**Multiple 0→1 enterprise products · Post-Doc in AI · Tier-I IEEE publications · 4 patents · 20+ books**
 
 <br/>
 
-I'm an AI-native engineer and technical founder — a decade of SQL Server engine internals at Microsoft, a PhD in Computer Science earned while working full-time, and current work on **agentic AI security** at HackerOne. My research and writing span **GenAI infrastructure**, **RDBMS statistics**, **blockchain reputation**, and **silicon photonics**.
+Seattle-based engineer spanning SQL Server internals, agentic AI security, RDBMS research, and silicon photonics. See **About** below for full background.
 
 <br/>
 
@@ -57,54 +57,17 @@ I'm an AI-native engineer and technical founder — a decade of SQL Server engin
 
 ## About
 
-Currently building the core **Agentic Prompt Injection Testing** engine at HackerOne — the system behind their production AI Red Teaming platform.
+I'm an AI-native engineer and technical founder who has shipped multiple 0→1 enterprise products, spent nearly a decade building core database engine internals at Microsoft, and hold a PhD in Computer Science completed while working full-time. My career spans deep systems engineering, production AI security, academic research with Tier-I publications, and hands-on technical leadership across companies from Synopsys to HackerOne.
 
-Beyond enterprise engineering, I publish **20+ books on Amazon**, author a **40-part editorial series** on photonics chip design and the AI compute bottleneck, and write a **127-part software-engineering series** on transitioning from software to photonics (forthcoming book).
+**Current focus:** Building the core **Agentic Prompt Injection Testing** engine at HackerOne — the system behind their production AI Red Teaming platform. Deployed on AWS (ECS Fargate, Lambda, S3, CloudWatch, Bedrock, Step Functions, DynamoDB), it addresses a **540% YoY surge** in validated prompt injection vulnerabilities across enterprise AI systems. Findings are aligned to OWASP Top 10 for LLMs, MITRE ATLAS, and NIST AI RMF with defensible exploitability evidence.
 
-</td>
-</tr>
-</table>
+**Microsoft (10 years):** On the SQL Server Query Optimization team, I worked on columnar storage, Parameter Sensitive Plans, Approximate Query Processing, optimizer statistics, streaming algorithms, and Query Store — contributing to SQL Server 2016, 2019, and 2022 releases. Filed **4 patents (2 granted)**. Also represented Microsoft at SIGMOD and IEEE Big Data conferences.
 
-<br/>
+**Research & academia:** PhD and Post-Doc from Auburn University on q-error based one-pass statistics algorithms for large-scale database scaling. Multiple **IEEE Big Data** publications, IEEE AIoT papers on agentic workflows, and a PhD dissertation on learning-based optimizer statistics. IEEE ICIIET 2025 keynote speaker.
 
-<img src="assets/divider.svg" width="100%"/>
+**Technical breadth:** Agentic AI security · GenAI infrastructure · RDBMS/statistics research · HTAP systems · blockchain reputation (zScore) · silicon photonics tooling · VLSI/RTL verification (Synopsys, Intel Haswell-class projects).
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="6" bgcolor="#238636"></td>
-<td bgcolor="#161B22" style="padding: 16px 24px;">
-
-## Featured Repositories
-
-### [agents-unite](https://github.com/rahiakil/agents-unite) — *Building the World's Financial Memory*
-
-> **Crowdsourced agentic LLM research · Git-based version history · Blockchain-style reputation roadmap**
-
-Most AI agents throw away their work when the session ends. **agents-unite** splits the problem across one repo and many agents worldwide — each contributor spends ~25¢ of tokens on one assigned ticker for one day. PRs land in `data/` and **stay forever**.
-
-| What makes it special | Why it matters |
-|---|---|
-| **Git-native financial memory** | Every belief is a commit — years of `data/DATE/TICKER/` with sources attached |
-| **Crowdsourced token spend** | 4,000 contributors → 4,000 tickers covered daily; you read everyone's output for free |
-| **Multi-LLM diversity** | Cursor · Claude · GPT · Gemini · Ollama · OpenClaw — ensemble beats monoculture |
-| **PR review + CI validation** | Schema validation in the cloud, not on your honor |
-| **Phase 4: Reputation layer** | Accuracy scoring, prediction tracking, **stake-gated signals** — a Solana-style proof-of-trust for market sentiment ([zScore paper →](https://arxiv.org/abs/2503.05718)) |
-
-**Roadmap:** Daily collection → Hourly + RAG → Consensus engine → **On-chain reputation & stake-gated signals**
-
-[Live Website](https://rahiakil.github.io/agents-unite/) · [Vision](https://github.com/rahiakil/agents-unite/blob/main/docs/VISION.md) · [Builders Guide](https://github.com/rahiakil/agents-unite/blob/main/docs/BUILDERS.md)
-
----
-
-### Other Projects
-
-| Repository | Description |
-|:---|:---|
-| [**agos**](https://github.com/rahiakil/agos) | **Agentic OS** — operating system primitives for autonomous AI agents |
-| [**awesome-ai-agents**](https://github.com/rahiakil/awesome-ai-agents) | Curated list of AI autonomous agents, frameworks, and tooling |
-| [**Dr-Parag-Paul**](https://github.com/rahiakil/Dr-Parag-Paul) | Public profile — career, publications, books, and editorial series |
+**Writing & thought leadership:** **20+ books** on Amazon, a **40-part editorial series** on photonics chip design and the AI compute bottleneck, and a **127-part software-engineering series** on transitioning from software to photonics (forthcoming book).
 
 </td>
 </tr>
@@ -230,6 +193,36 @@ VLSI, RTL, UVM, CDC, STA, SDC, DFT, sign-off; owned runtime components for VCS; 
 | 2022 | [**Low Cardinality Bias Correction System**](https://patentimages.storage.googleapis.com/1a/43/4b/60b436f352b96e/US11416457.pdf) | US11416457 |
 | 2020 | [**Optimizing Memory Usage for a HyperLogLog Estimator**](https://patents.google.com/patent/US10776429B2/en) | US10776429B2 |
 | 2020 | [**Reducing Likelihood of Cycles in User Interface Testing**](https://scholar.google.com/citations?oi=bibs&cluster=12267834545177819205&btnI=1&hl=en) | US10783061 |
+
+---
+
+## Featured Repositories
+
+### [agents-unite](https://github.com/rahiakil/agents-unite) — *Building the World's Financial Memory*
+
+> **Crowdsourced agentic LLM research · Git-based version history · Blockchain-style reputation roadmap**
+
+Most AI agents throw away their work when the session ends. **agents-unite** splits the problem across one repo and many agents worldwide — each contributor spends ~25¢ of tokens on one assigned ticker for one day. PRs land in `data/` and **stay forever**.
+
+| What makes it special | Why it matters |
+|---|---|
+| **Git-native financial memory** | Every belief is a commit — years of `data/DATE/TICKER/` with sources attached |
+| **Crowdsourced token spend** | 4,000 contributors → 4,000 tickers covered daily; you read everyone's output for free |
+| **Multi-LLM diversity** | Cursor · Claude · GPT · Gemini · Ollama · OpenClaw — ensemble beats monoculture |
+| **PR review + CI validation** | Schema validation in the cloud, not on your honor |
+| **Phase 4: Reputation layer** | Accuracy scoring, prediction tracking, **stake-gated signals** — a Solana-style proof-of-trust for market sentiment ([zScore paper →](https://arxiv.org/abs/2503.05718)) |
+
+**Roadmap:** Daily collection → Hourly + RAG → Consensus engine → **On-chain reputation & stake-gated signals**
+
+[Live Website](https://rahiakil.github.io/agents-unite/) · [Vision](https://github.com/rahiakil/agents-unite/blob/main/docs/VISION.md) · [Builders Guide](https://github.com/rahiakil/agents-unite/blob/main/docs/BUILDERS.md)
+
+### Other Projects
+
+| Repository | Description |
+|:---|:---|
+| [**agos**](https://github.com/rahiakil/agos) | **Agentic OS** — operating system primitives for autonomous AI agents |
+| [**awesome-ai-agents**](https://github.com/rahiakil/awesome-ai-agents) | Curated list of AI autonomous agents, frameworks, and tooling |
+| [**Dr-Parag-Paul**](https://github.com/rahiakil/Dr-Parag-Paul) | Public profile — career, publications, books, and editorial series |
 
 ---
 
